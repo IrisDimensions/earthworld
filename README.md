@@ -13,8 +13,8 @@ To create a new Earth dimension, use the `/iris create` command.
   instructions in the README there.
 
 - **Earth World with IASurvival Ores:** If you have ItemsAdder installed and
-  want its ores
-  included,[manually download this Iris pack](https://github.com/IrisDimensions/earthworld/archive/refs/heads/itemsadder.zip),
+  want its ores included,
+  [manually download this Iris pack](https://github.com/IrisDimensions/earthworld/archive/refs/heads/itemsadder.zip),
   and place it in the Iris/packs folder. Reload Iris or start the server and
   run:
 
