@@ -26,9 +26,11 @@ To create a new Earth dimension, use the `/iris create` command.
 
   **Requirements for ItemsAdder version:**
 
-  - ItemsAdder must be installed.
+  - [ItemsAdder](https://www.spigotmc.org/resources/✨itemsadder⭐emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
+    must be installed.
   - WorldEdit may need to be installed, but FAWE will not work.
-  - ItemsAdderBlocksInjector must be installed.
+  - [ItemsAdderBlocksInjector](https://www.spigotmc.org/resources/itemsadderblocksinjector.102078/)
+    must be installed.
 
   More info on ItemsAdder + Iris
   [here](https://itemsadder.devs.beer/compatibility-with-other-plugins/compatible/iris).
