@@ -16,24 +16,9 @@ To create a new Earth dimension, use the `/iris create` command.
   (Replace `<desired-world-name>` with the name you want.)
 
 - **Earth World with IASurvival Ores:** If you have ItemsAdder installed and
-  want its ores included, run:
-
-  ```bash
-  /iris create name=<desired-world-name> type=earthworld-itemsadder
-  ```
-
-  (Replace `<desired-world-name>` with the name you want.)
-
-  **Requirements for ItemsAdder version:**
-
-  - [ItemsAdder](https://www.spigotmc.org/resources/✨itemsadder⭐emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/)
-    must be installed.
-  - WorldEdit may need to be installed, but FAWE will not work.
-  - [ItemsAdderBlocksInjector](https://www.spigotmc.org/resources/itemsadderblocksinjector.102078/)
-    must be installed.
-
-  More info on ItemsAdder + Iris
-  [here](https://itemsadder.devs.beer/compatibility-with-other-plugins/compatible/iris).
+  want its ores included, switch the branch to the
+  [ItemsAdder branch](https://github.com/IrisDimensions/earthworld/tree/itemsadder)
+  and follow the instructions in the README there.
 
 Contributors & creators:
 
