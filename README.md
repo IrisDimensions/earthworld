@@ -7,16 +7,16 @@ The standard overworld, modified to be an earth-style map for
 
 To create a new Earth dimension, use the `/iris create` command.
 
-- **Standard Earth World:**
-
-  ```bash
-  /iris create name=<desired-world-name> type=earthworld
-  ```
-
-  (Replace `<desired-world-name>` with the name you want.)
+- **Standard Earth World:** If you do not have ItemsAdder installed you are in
+  the wrong place! Head to the
+  [stable branch](https://github.com/IrisDimensions/earthworld) and follow the
+  instructions in the README there.
 
 - **Earth World with IASurvival Ores:** If you have ItemsAdder installed and
-  want its ores included, run:
+  want its ores included, (manually download this Iris
+  pack)[https://github.com/IrisDimensions/earthworld/archive/refs/heads/itemsadder.zip],
+  and place it in the Iris/packs folder. Reload Iris or start the server and
+  run:
 
   ```bash
   /iris create name=<desired-world-name> type=earthworld-itemsadder
